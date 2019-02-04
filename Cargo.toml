@@ -1,0 +1,7 @@
+[package]
+name = "http3"
+version = "0.1.0"
+authors = ["Isan-Rivkin <isanrivkin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
