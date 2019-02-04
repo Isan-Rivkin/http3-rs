@@ -3,5 +3,11 @@ name = "http3"
 version = "0.1.0"
 authors = ["Isan-Rivkin <isanrivkin@gmail.com>"]
 edition = "2018"
-
+description = "Http and Https 3 pure implementation in Rust"
+keywords = ["http", "http3"]
+categories = ["web-programming"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Isan-Rivkin/http3-rs"
+homepage = "https://github.com/Isan-Rivkin/http3-rs"
 [dependencies]
